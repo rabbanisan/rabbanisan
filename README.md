@@ -14,7 +14,7 @@ Hi, I'm Bani, I'm a teacher at Yadika Soreang Vocational High School,🚀 from I
 - ⚡️ ocasionally tinkering IOT and Automation (arduino, esp8266).
 - :fire: full time dad!
 - 📫 How to reach me: bani.ramadhan99@gmail.com;
-- 📝[Resume](https://github.com/Reallywanttolearn/Resume/blob/main/Resume%20Themas.png)
+- 📝[Resume](https://github.com/rabbanisan/resume/blob/main/resume.png)
 
 **Languages and Tools:**
 
