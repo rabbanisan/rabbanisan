@@ -7,7 +7,7 @@ Hi, I'm Bani, I'm a teacher at Yadika Soreang Vocational High School,🚀 from I
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working @ SMK Yadika Soreang
+- 👨🏽‍💻 I’m currently working @ SMK Yadika Soreang;
 - 🌱 I’m currently learning React js and node js ;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
