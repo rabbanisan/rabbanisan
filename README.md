@@ -3,7 +3,7 @@
 
 <p>I am an educator at a vocational school in Bandung district, currently looking for a company to work for, especially in the field of software development. I am very interested in website and frontend development.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themasfebrianto&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrabbani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbanisan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrabbani" /> </p>
 
 - 🔭 I’m currently working on [Movie App React Project](https://replit.com/@rabbanisan/react-movie-app)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mrabbanir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themasfebrianto" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mrabbanir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbanisan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
