@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rabbani Ramadhan</h1>
-<h3 align="center">A passionate FrontEnd developer from Indonesia</h3>
+<h3 align="center">A passionate Web developer from Indonesia</h3>
 
 <p>I am an educator at a vocational school in Bandung district, currently looking for a company to work for, especially in the field of software development. I am very interested in website and frontend development.</p>
 
