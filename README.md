@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bani.ramadhan99@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1P-d_ClPmx3TPz7ny0Xd2ZgLkh9-HfjDp/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1TBPUSn8-vwQyJ4gEsQwXfnF8BbAiFFfk/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
